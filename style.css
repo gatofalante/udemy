@@ -14,7 +14,7 @@
 .hidden, #field_9_2 .gfield_label,  .fed_dashboard_menus,
 form.hidden-email li.hidden-field .gfield_label, form.hidden-email li.hidden-field .ginput_container_email
 {
-	display:none !important;
+	display:none;
 }
 
 
