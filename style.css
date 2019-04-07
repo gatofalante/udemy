@@ -18,10 +18,6 @@ form.hidden-email li.hidden-field .gfield_label, form.hidden-email li.hidden-fie
 }
 
 
-#grve-theme-wrapper .gform_wrapper  .email-hidden > .gfield_label,#grve-theme-wrapper .gform_wrapper .email-hidden > .ginput_container_email{
-	display:none;
-	visibility:hidden;
-}
 
 #profile-contents .col-md-7 {
 	width:100%;
